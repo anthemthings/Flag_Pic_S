@@ -1,0 +1,52 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+=====================================================
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission. But it is appreciated, professional,
+and more educational if you give attribution. :)
+
+WORK DEDICATED TO PUBLIC DOMAIN:
+---------------------------------
+File:    Showa Restoration.png 
+Creator: anthemthings 
+Year:    2026
+
+DESCRIPTION OF WORK:
+---------------------
+Flag of the 226 Hi no Maru
+Recreated and modified at 1920x1080 resolution using:
+  - 226 Hi no Maru.svg
+  - Paint.NET (MIT License)
+
+EDITION:
+--------
+The color of the disc has been changed from #BD0029 to #B12D3D
+because #B12D3D is the disc color of Imperial Japan, so this
+correction has been applied
+
+EDUCATIONAL PURPOSE DISCLAIMER:
+--------------------------------
+This work is created and shared for historical, educational, and
+documentary purposes only.
+ 
+The creator of this file:
+  - Does NOT endorse, glorify, or promote the Imperial Japan regime
+  - Does NOT endorse collaboration with any occupying force
+  - Does NOT endorse any political ideology represented by this flag
+  - Created this file purely for historical documentation and education
+ 
+The creator is NOT responsible for any misuse of this file by others.
+
+NOTES:
+------
+This work is based entirely on Public Domain and openly licensed source
+materials. The creator waives all copyright and related rights to this
+work under CC0 1.0.
+
+For more information, see:
+https://creativecommons.org/publicdomain/zero/1.0/
