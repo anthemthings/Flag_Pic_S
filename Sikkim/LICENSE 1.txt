@@ -30,7 +30,7 @@ IF YOU USE THIS FILE:
 ---------------------
 You must:
   - Give attribution to the original authors (Nichalp, Goran_tek-en, AnonMoos)
-  - Give attribution to [Your Name] for the 16:9 modification
+  - Give attribution to anthemthings for the 16:9 modification
   - Mention that the original authors do NOT endorse your use
   - License YOUR derivative also under CC BY-SA 2.5 (Share Alike)
 
